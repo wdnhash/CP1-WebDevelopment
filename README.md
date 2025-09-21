@@ -3,14 +3,18 @@
 Este projeto foi desenvolvido como **trabalho da faculdade**, seguindo os requisitos propostos no repositório [CP1-Webdev-2025-2](https://github.com/mmamorim/CP1-Webdev-2025-2).  
 A ideia foi criar uma **calculadora de duração de reunião**, utilizando **somente operações matemáticas** para determinar o tempo entre início e fim, sem recorrer a bibliotecas ou funções de data/hora.
 
+
 ---
+
 
 ## 👥 Participantes
 
-- **Wenderson** – [wdnhash](https://github.com/wdnhash) 
-- **Douglas** – [DGdoougz](https://github.com/DGdoougz) 
+- **Wenderson** – [wdnhash](https://github.com/wdnhash) - RM:567847
+- **Douglas** – [DGdoougz](https://github.com/DGdoougz) - RM:567846
+
 
 ---
+
 
 ## 🎯 Objetivo do projeto
 
@@ -18,7 +22,9 @@ A ideia foi criar uma **calculadora de duração de reunião**, utilizando **som
 - Implementar uma calculadora que receba horário de **início** e **término** e retorne a **duração total** da reunião.  
 - Fazer todos os cálculos de tempo através de **lógica matemática explícita** (conversão para minutos, subtração, tratamento de virada de dia, etc.), garantindo clareza e aprendizado prático.
 
+
 ---
+
 
 ## 🗂️ Estrutura do repositório
 
@@ -29,7 +35,9 @@ CP1-Webdev-2025-2/
 └── script.js       # Lógica do cálculo da duração
 ```
 
+
 ---
+
 
 ## 🧠 Como funciona
 
@@ -38,7 +46,9 @@ CP1-Webdev-2025-2/
 3. Caso o horário de término seja **anterior ao início** (reunião passando da meia-noite), a lógica ajusta automaticamente adicionando 24 horas em minutos.  
 4. O resultado é exibido em formato **HH:MM**.
 
+
 ---
+
 
 ## 💡 Observação
 
